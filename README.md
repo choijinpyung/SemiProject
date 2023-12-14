@@ -5,28 +5,32 @@
 </div>
 
 <div align="center">
-<h2>🔥 영화 감독 봉준호가 가고 싶은 영화관 선정 1위 🔥</h2>
+  
+## 🔥 영화 감독 봉준호가 가고 싶은 영화관 선정 1위 🔥
 <br><br>
-영화의 정보와 소통을 위한 커뮤니티 기능을 사용자들에게 편리하게 제공하는 '3' CINE 입니다
+#### 영화의 정보와 소통을 위한 커뮤니티 기능을 사용자들에게 편리하게 제공하는 '3' CINE 입니다
 </div>
 
 <div align="center">
 <br><br>
-<h2>🔍 주요 기능</h2>
+  
+## 🔍 주요 기능
 <br><br>
-영화 검색, 상영 일정 및 상영관 정보, 좌석 선택, 예매 정보 입력, 결제, 리뷰 및 평가, 회원가입 및 로그인, 관리자 대시보드
+#### 영화 검색, 상영 일정 및 상영관 정보, 좌석 선택, 예매 정보 입력, 결제, 리뷰 및 평가, 회원가입 및 로그인, 관리자 대시보드
 </div>
 
 <div align="center">
 <br><br>
-<h2>📆 개발 기간</h2>
+  
+## 📆 개발 기간
 <br><br>
-2023.9.8 ~ 2023.9.22
+#### 2023.9.8 ~ 2023.9.22
 </div>
 
 <div align="center">
 <br><br>
-<h2>⚙️ 개발 언어 및 개발 환경</h2>
+  
+## ⚙️ 개발 언어 및 개발 환경
 <br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -49,45 +53,54 @@
 
 <div align="center">
 <br><br>
-<h2>📌 사용 API</h2>
+  
+## 📌 사용 API
 <br><br>
   <img src="https://img.shields.io/badge/naver-green?style=flat&logo=naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/kakao-yellow?style=flat&logo=kakao&logoColor=black"/>
   <br>
-  영화진흥위원회, KG이니시스
+#### 영화진흥위원회, KG이니시스
 </div>
 
 <div align="center">
 <br><br>
-<h2>💁🏻‍♂️ 역할분담</h2>
+  
+## 💁🏻‍♂️ 역할분담
 <br><br>
-진평 & 영준 : 메인 페이지, 상세 페이지 <br>
-선범 & 영환 : 로그인, 마이 페이지, 관리자 로그인, 영화 검색 <br>
-순영 & 연주 : 카카오 로그인 API, 영화 예매, 좌석 선택, 스토어 및 장바구니, 결제 페이지
+#### 진평 & 영준 : 메인 페이지, 상세 페이지 <br>
+#### 선범 & 영환 : 로그인, 마이 페이지, 관리자 로그인, 영화 검색 <br>
+#### 순영 & 연주 : 카카오 로그인 API, 영화 예매, 좌석 선택, 스토어 및 장바구니, 결제 페이지
 </div>
 
 <div align="center">
 <br><br>
-<h2>메인 페이지</h2>
+
+## 🎥 구현 영상
+<br>
+
+
+## 메인 페이지
 <br><br>
 <img src="image/main.gif" height="425px">
 </div>
 
 <div align="center">
 <br><br>
-<h2>전체 구현 영상</h2>
+  
+## 전체 구현 영상
 <br><br>
 <img src="image/all.gif" height="425px">
 </div>
 
 <div align="center">
 <br><br>
-<h2>함께한 팀원들</h2>
+  
+## 함께한 팀원들
 <br><br>
-🧑🏻‍🦱영준 : https://github.com/sleepysudal <br>
-🧔🏻‍♂선범 : https://github.com/SEONBEOM928 <br>
-👦🏻영환 : https://github.com/spore2429 <br>
-👧🏻순영 : https://github.com/ssunvibesonly <br>
-👩🏻연주 : https://github.com/qqqkyj
+## 영준 : https://github.com/sleepysudal <br>
+## 선범 : https://github.com/SEONBEOM928 <br>
+## 영환 : https://github.com/spore2429 <br>
+## 순영 : https://github.com/ssunvibesonly <br>
+## 연주 : https://github.com/qqqkyj
 <br><br>
 </div>
