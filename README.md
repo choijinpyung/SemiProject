@@ -145,11 +145,11 @@
 
 <br><br>
 
-## 영준 : https://github.com/sleepysudal
-## 선범 : https://github.com/SEONBEOM928
-## 영환 : https://github.com/spore2429
-## 순영 : https://github.com/ssunvibesonly
-## 연주 : https://github.com/qqqkyj
+#### 영준 : https://github.com/sleepysudal
+#### 선범 : https://github.com/SEONBEOM928
+#### 영환 : https://github.com/spore2429
+#### 순영 : https://github.com/ssunvibesonly
+#### 연주 : https://github.com/qqqkyj
 
 <br><br>
 
