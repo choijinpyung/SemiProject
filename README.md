@@ -143,7 +143,7 @@
   
 ## 함께한 팀원들
 
-<br><br>
+<br>
 
 #### 영준 : https://github.com/sleepysudal
 #### 선범 : https://github.com/SEONBEOM928
